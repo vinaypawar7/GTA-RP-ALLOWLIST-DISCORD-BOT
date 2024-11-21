@@ -12,3 +12,6 @@ A Discord bot designed to manage allowlists for GTA RP (Roleplay) servers, integ
 Developed by **agx** (Vinay Pawar).
 
 Notes - selling of this bot is not allowed. share with proper credits.
+
+
+## To Buy Custom Paid Discord Bots DM - @agx_v77
